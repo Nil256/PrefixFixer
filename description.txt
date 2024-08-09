@@ -1,0 +1,13 @@
+PreFix! (Modifier Keeping System)
+
+by Nil256
+
+----------------------------------------
+
+Prefix (Modifier) made by a mod is removed if that mod is disabled.
+This mod saves the data of mod prefixes, re-give prefix when the mod is enabled.
+A prefix "Unloaded-Prefixed" is given to item if the mod is disabled.
+
+Note: an prefix is overriden if this mod is enabled again after prefix is changed while this mod is disabled.
+
+----------------------------------------
