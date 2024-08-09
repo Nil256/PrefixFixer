@@ -19,7 +19,7 @@ namespace PrefixFixer
 
         public override bool CanRoll(Item item)
         {
-            return false;
+            return true;
         }
     }
 }
